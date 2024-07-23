@@ -5,15 +5,19 @@
 </p>
 
 ### My Work
+
 - 🔭 I’m currently working on **Graduate Thesis** in **Chemistry**
 - I'm looking to collaborate on ...
 
 ### My Resources
+```
 - 2x Dell r750 (vxrail v670f) - Dual Gold 6330 Ice Lake - 512gb 3200MT ddr4 - Ubuntu Compute
 - Dell r630 - E5-2620 v3s - 64gb 2400MT ddr4 - Proxmox Hypervisor
 - Datto Sirus 3 E48000 - E5-2650 v4 - 64gb 2400MT ddr4 - TrueNAS Storage
+```
 
 ### Shared Resources
+```
 ====================================================================================
                           Welcome to the VOLTRON cluster
 ====================================================================================
@@ -36,6 +40,7 @@
 
 Total production cores = 1472 (46 x 32-core nodes)
 ====================================================================================
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
