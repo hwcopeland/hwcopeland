@@ -11,9 +11,16 @@
 
 ### My Resources
 ```
-- 2x Dell r750 (vxrail v670f) - Dual Gold 6330 Ice Lake - 512gb 3200MT ddr4 - Ubuntu Compute
-- Dell r630 - E5-2620 v3s - 64gb 2400MT ddr4 - Proxmox Hypervisor
-- Datto Sirus 3 E48000 - E5-2650 v4 - 64gb 2400MT ddr4 - TrueNAS Storage
+Computers:
+- Intel i9 9900kf (5.2GHz) - 2x16GB Vengence Pro 3200MT/s  - ROG Strix 3070
+- 2023 Macbook Pro - M2 Pro ARM 16GB unified DDR5 - 14"
+Servers:
+- 2x Dell r750 (vxrail v670f) - Dual Gold 6330 Ice Lake - 512gb 3200MT/s DDR4 - Ubuntu Compute
+- Dell r630 - E5-2620 v3s - 64gb 2400MT/s DDR4 - Proxmox Hypervisor
+- Datto Sirus 3 E48000 - E5-2650 v4 - 64gb 2400MT DDR4/s - TrueNAS Storage
+Misc:
+- Ender 3 v2
+- Ender 5 S1 - DIY Liquid Handler
 ```
 
 ### Shared Resources
