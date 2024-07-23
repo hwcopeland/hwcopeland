@@ -4,39 +4,38 @@
   <img src="https://komarev.com/ghpvc/?username=hwcopeland&label=Profile%20views&color=0e75b6&style=flat" alt="hwcopeland" />
 </p>
 
-*My Work*
+### My Work
 - 🔭 I’m currently working on **Graduate Thesis** in **Chemistry**
 - I'm looking to collaborate on ...
 
-*My Resources*
-2x Dell r750 (vxrail v670f) - Dual Gold 6330 Ice Lake - 512gb 3200MT ddr4 - Ubuntu Compute
-Dell r630 - E5-2620 v3s - 64gb 2400MT ddr4 - Proxmox Hypervisor
-Datto Sirus 3 E48000 - E5-2650 v4 - 64gb 2400MT ddr4 - TrueNAS Storage
+### My Resources
+- 2x Dell r750 (vxrail v670f) - Dual Gold 6330 Ice Lake - 512gb 3200MT ddr4 - Ubuntu Compute
+- Dell r630 - E5-2620 v3s - 64gb 2400MT ddr4 - Proxmox Hypervisor
+- Datto Sirus 3 E48000 - E5-2650 v4 - 64gb 2400MT ddr4 - TrueNAS Storage
 
-*Shared Resources*
+### Shared Resources
 ====================================================================================
                           Welcome to the VOLTRON cluster
-===================================================================================
-*** Hardware ***                                                       
- Server :  voltron - 32 cores ( 2 x 16-core Opteron 6380 2.5 GHz ), 128 GB DDR3 1600 MHz RAM, 
- Production nodes :  
-                     OpenSUSE Leap 15.6               
-     tron01..10 -  32 cores, 128 GB DDR3 1600 MHz RAM, 128GB SATA SSD + 2.0/3.0TB SATA HDD
-         25..46      CPU: 2 x Opteron 6378 ( Piledriver/Abu Dhabi ), 16 cores, 2.4 GHz, 16/16 MB L2/L3 cache     
-                     GPU: NONE
-     tron11..24 -  32 cores, 128 GB DDR3 1600 MHz DRAM, 120/128GB SATA SSD + 16/32TB SATA RAID0 HDD
-                              ( tron11-19 -> 256 GB )                 ( tron20-24 -> 16 TB )
-                     CPU: 2 x Opteron 6380 ( Piledriver/Abu Dhabi ), 16 cores, 2.5 GHz, 16/16 MB L2/L3 cache
-                         ( tron16 -> 2 x Opteron 6378 2.4 GHz )
-                     GPU:
-                       tron[11-18] : NONE
-                       tron19      : 2 x GTX 1080     ( CUDA 6.1, OpenCL and OpenACC capable ) 
-                       tron[20,21] : 2 x Quadro M4000 ( CUDA 5.2, OpenCL and OpenACC capable )
-                       tron[22-24] : 3 x Quadro M4000 ( CUDA 5.2, OpenCL and OpenACC capable )
-                       
- Total production cores = 1472 ( 46 x 32-core nodes )
 ====================================================================================
+*** Hardware ***                                                       
+- Server:  voltron - 32 cores ( 2 x 16-core Opteron 6380 2.5 GHz ), 128 GB DDR3 1600 MHz RAM
 
+- Production nodes:  
+    - tron01..10 - 32 cores, 128 GB DDR3 1600 MHz RAM, 128GB SATA SSD + 2.0/3.0TB SATA HDD
+        - 25..46: CPU: 2 x Opteron 6378 ( Piledriver/Abu Dhabi ), 16 cores, 2.4 GHz, 16/16 MB L2/L3 cache; GPU: NONE
+    - tron11..24 - 32 cores, 128 GB DDR3 1600 MHz DRAM, 120/128GB SATA SSD + 16/32TB SATA RAID0 HDD
+        - tron11-19 -> 256 GB
+        - tron20-24 -> 16 TB
+        - CPU: 2 x Opteron 6380 ( Piledriver/Abu Dhabi ), 16 cores, 2.5 GHz, 16/16 MB L2/L3 cache
+        - tron16: 2 x Opteron 6378 2.4 GHz
+        - GPU:
+            - tron[11-18]: NONE
+            - tron19: 2 x GTX 1080 ( CUDA 6.1, OpenCL and OpenACC capable )
+            - tron[20,21]: 2 x Quadro M4000 ( CUDA 5.2, OpenCL and OpenACC capable )
+            - tron[22-24]: 3 x Quadro M4000 ( CUDA 5.2, OpenCL and OpenACC capable )
+
+Total production cores = 1472 (46 x 32-core nodes)
+====================================================================================
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
