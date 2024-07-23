@@ -18,21 +18,21 @@
                           Welcome to the VOLTRON cluster
 ====================================================================================
 *** Hardware ***                                                       
-- Server:  voltron - 32 cores ( 2 x 16-core Opteron 6380 2.5 GHz ), 128 GB DDR3 1600 MHz RAM
+- Server: voltron - 32 cores (2 x 16-core Opteron 6380 2.5 GHz), 128 GB DDR3 1600 MHz RAM
 
 - Production nodes:  
     - tron01..10 - 32 cores, 128 GB DDR3 1600 MHz RAM, 128GB SATA SSD + 2.0/3.0TB SATA HDD
-        - 25..46: CPU: 2 x Opteron 6378 ( Piledriver/Abu Dhabi ), 16 cores, 2.4 GHz, 16/16 MB L2/L3 cache; GPU: NONE
+        - 25..46: CPU: 2 x Opteron 6378 (Piledriver/Abu Dhabi), 16 cores, 2.4 GHz, 16/16 MB L2/L3 cache; GPU: NONE
     - tron11..24 - 32 cores, 128 GB DDR3 1600 MHz DRAM, 120/128GB SATA SSD + 16/32TB SATA RAID0 HDD
         - tron11-19 -> 256 GB
         - tron20-24 -> 16 TB
-        - CPU: 2 x Opteron 6380 ( Piledriver/Abu Dhabi ), 16 cores, 2.5 GHz, 16/16 MB L2/L3 cache
+        - CPU: 2 x Opteron 6380 (Piledriver/Abu Dhabi), 16 cores, 2.5 GHz, 16/16 MB L2/L3 cache
         - tron16: 2 x Opteron 6378 2.4 GHz
         - GPU:
             - tron[11-18]: NONE
-            - tron19: 2 x GTX 1080 ( CUDA 6.1, OpenCL and OpenACC capable )
-            - tron[20,21]: 2 x Quadro M4000 ( CUDA 5.2, OpenCL and OpenACC capable )
-            - tron[22-24]: 3 x Quadro M4000 ( CUDA 5.2, OpenCL and OpenACC capable )
+            - tron19: 2 x GTX 1080 (CUDA 6.1, OpenCL and OpenACC capable)
+            - tron[20,21]: 2 x Quadro M4000 (CUDA 5.2, OpenCL and OpenACC capable)
+            - tron[22-24]: 3 x Quadro M4000 (CUDA 5.2, OpenCL and OpenACC capable)
 
 Total production cores = 1472 (46 x 32-core nodes)
 ====================================================================================
