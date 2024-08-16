@@ -9,21 +9,7 @@
 - 🔭 I’m currently working on **Graduate Thesis** in **Chemistry**
 - I'm looking to collaborate on ...
 
-### My Resources
-```
-Computers:
-- Intel i9 9900kf (5.2GHz) - 2x16GB Vengence Pro 3200MT/s  - ROG Strix 3070
-- 2023 Macbook Pro - M2 Pro ARM 16GB unified DDR5 - 14"
-Servers:
-- 2x Dell r750 (vxrail v670f) - Dual Gold 6330 Ice Lake - 512gb 3200MT/s DDR4 - Ubuntu Compute
-- Dell r630 - E5-2620 v3s - 64gb 2400MT/s DDR4 - Proxmox Hypervisor
-- Datto Sirus 3 E48000 - E5-2650 v4 - 64gb 2400MT DDR4/s - TrueNAS Storage
-Misc:
-- Ender 3 v2
-- Ender 5 S1 - DIY Liquid Handler
-```
-
-### Shared Resources
+### The Toaster Cluster
 ```
 ====================================================================================
                           Welcome to the VOLTRON cluster
@@ -48,6 +34,17 @@ Misc:
 Total production cores = 1472 (46 x 32-core nodes)
 ====================================================================================
 ```
+
+### TODO:
+
+I need to keep track of skills/ideas I would like to develop/learn. Im just going to list them here and hope that public pressure makes me accomplish it. I learn project based so each item has a corresponding project.
+
+    Intermediate Python -> STO Fitting
+    Dask Clusters -> STO Fitting
+    Kubernetes & Scaleable Frameworks -> DevBlog
+    Databases -> Zinc20 + DevBlog
+    AI Frameworks/Architectures -> (we will cross that bridge)
+    
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
