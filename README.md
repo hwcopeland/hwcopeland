@@ -41,9 +41,7 @@ I need to keep track of skills/ideas I would like to develop/learn. Im just goin
 
     Intermediate Python -> STO Fitting
     Dask Clusters -> STO Fitting
-    Kubernetes & Scaleable Frameworks -> DevBlog
     Databases -> Zinc20 + DevBlog
-    AI Frameworks/Architectures -> (we will cross that bridge)
     
 
 <h3 align="left">Connect with me:</h3>
