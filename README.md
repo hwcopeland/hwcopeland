@@ -34,16 +34,6 @@
 Total production cores = 1472 (46 x 32-core nodes)
 ====================================================================================
 ```
-
-### TODO:
-
-I need to keep track of skills/ideas I would like to develop/learn. Im just going to list them here and hope that public pressure makes me accomplish it. I learn project based so each item has a corresponding project.
-
-    Intermediate Python -> STO Fitting
-    Dask Clusters -> STO Fitting
-    Databases -> Zinc20 + DevBlog
-    
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/hwcopeland" target="_blank">
