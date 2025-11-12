@@ -1,4 +1,4 @@
-<h1 align="center">Scientist and Researcher - Cheminformatics</h1>
+<h1 align="center">Researcher - Computational Chemistry/Cheminformatics</h1>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=hwcopeland&label=Profile%20views&color=0e75b6&style=flat" alt="hwcopeland" />
